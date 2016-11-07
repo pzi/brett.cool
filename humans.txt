@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+    <Brett Jones> - keyboard clacker - <@brett_jay>
+
+/* THANKS */
+    <Patrik Affentranger> -- <http://patrikaffentranger.me>
+    <Middleman Basis> -- <https://github.com/pzi/middleman-basis>
+
+/* SITE */
+    Last update: 2016-11-07
+    Language: English
+    Standards: CSS3, HTML5, JavaScript
+    Components: Apache Server Configs, Modernizr, Normalize.css, html5shiv
+    Software: Sublime Text
